@@ -90,7 +90,14 @@ body {
 .course-table td:last-child {
     font-style: italic; 
 }
-
+.courseoffer{
+    background-color:ligthgrey;
+    margin:2px;
+}
+.admission{
+    background-color:ligthgrey; 
+    margin:3px;
+}
 
 .form{
     background-color:whitesmoke;
